@@ -1,6 +1,6 @@
 # Perennia
 
-仓库：[zwbg-nativelab/perennia](http://192.168.0.200/zwbg-nativelab/perennia)。
+仓库：[cxydaizihao520/perennia](https://github.com/cxydaizihao520/perennia)。
 
 当前已完成 Git 接入及工程协作约定，尚未选择技术栈或生成应用代码。
 
